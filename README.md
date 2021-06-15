@@ -1,6 +1,6 @@
 # Pledge
 
-It is a platform to reimagine about places we put our efforts into as developers. In most cases, we all are attached to the goals that provide eventual satisfaction. Let's all come together and take the pledge to Code for Cause leading to a better future.
+It is a platform to reimagine about places we put our efforts into as developers. In most cases, we all are attached to the goals that provide eventual satisfaction. We want code and action to always be in the hands of people who are passionate about this game -- and that includes you! We want all of you to contribute to this vision of Code for Cause. Please join our team and let's all come together and take the pledge to Code for Cause leading to a better future. 
 
 ## Installation & Set Up
 
@@ -42,13 +42,13 @@ It is a platform to reimagine about places we put our efforts into as developers
 
 ```
 {
-    "name": "Ganga Chaturvedi",
-    "skills" : ["JS", "React"],
+    "name": "Rana Aishwarya Pratap Singh",
+    "skills" : ["JS", "Python"],
     "cause" : "empowerment",
     "image" : "Avatar2",
-    "github" : "https://github.com/gangachatrvedi",
-    "twitter" : "https://twitter.com/gangachatrvedi",
-    "linkedin" : "https://www.linkedin.com/in/gangachatrvedi"
+    "github" : "https://github.com/rapsingh",
+    "twitter" : "https://twitter.com/yourUserName",
+    "linkedin" : "https://www.linkedin.com/in/rana-aishwarya-pratap-singh-151b4a1b0/"
 }
 ```
 
